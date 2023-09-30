@@ -1,5 +1,5 @@
 # Diabetes-Prediction
-Objective: To classify patients into diabetic and non-diabetic classes
+Objective: To classify patients into diabetic and non-diabetic class
 
 Required Libraries: 
 
