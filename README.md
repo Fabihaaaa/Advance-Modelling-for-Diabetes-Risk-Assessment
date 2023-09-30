@@ -14,7 +14,7 @@ Conclusion:
 
 • Performed Exploratory Data Analysis to understand the relationship between the variables, the 
 underlying distribution of data and to deal with missing values
-• Used Logistic Regression using SGD, Random Forest, XG Boost and AdaBoost model to predict
+• Used Logistic Regression using SGD, Random Forest and AdaBoost model to predict
 whether a patient is diabetic or non-diabetic
 • Evaluated the model performance using error metrics 
 • Observed ‘AdaBoost’ gave better output
