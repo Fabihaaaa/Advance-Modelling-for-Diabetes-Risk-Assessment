@@ -8,7 +8,6 @@ Required Libraries:
 3) matplotlib
 4) seaborn
 5) sklearn
-6) XG Boost
 
 Conclusion: 
 
